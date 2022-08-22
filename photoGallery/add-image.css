@@ -1,0 +1,130 @@
+body{
+    background-color: #EFFFFD;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.fa{
+    font-size: 40px;
+}
+
+.navbar{
+    background-color:  #EFFFFD;
+}
+
+.table-responsive{
+    margin: 60px 60px 0px 60px;
+    padding-bottom: 45px;
+}
+
+.navbar-toggler-icon{
+    color: black;
+}
+
+.new{
+    margin-top: 100px;
+}
+.table-area{
+    background-color:#519872;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    margin-bottom: 50px;
+}
+.add-image{
+    background-color:  #004a99;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    margin-bottom: 25px;
+}
+.add-image-form{
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+.upload-form{
+    width: 60%;
+    margin: auto;
+}
+
+.title{
+    padding-bottom: 25px;
+}
+
+input[type=text] {
+    background: transparent;
+    border: 2px solid hotpink;
+    border-radius: 25px;
+  }
+
+  input[type=text]:focus{
+    color: white;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 25px;
+  }
+
+  input[type=file] {
+    width: 60%;
+    margin: auto;
+    background: transparent;
+    border: 2px solid hotpink;
+    border-radius: 25px;
+  }
+
+  .btn{
+    border: 2px solid black;
+    color: white;
+    border-radius: 15px;
+  }
+
+  .btn:hover{
+    border: 2px solid white;
+    color: wheat;
+  }
+
+
+.footer{
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+
+
+
+@media screen and (max-width: 767px) {
+
+    .table-responsive{
+        margin: 60px 20px 0px 20px;
+        padding-bottom: 45px;
+    }
+
+    .upload-form{
+        width: 80%;
+    } 
+
+
+    .add-image{
+        background-color:  #004a99;
+        border-top-left-radius: 60px;
+        border-top-right-radius: 60px;
+        border-bottom-left-radius: 60px;
+        border-bottom-right-radius: 60px;
+        margin-bottom: 25px;
+    }
+  }

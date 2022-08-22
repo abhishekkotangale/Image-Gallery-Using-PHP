@@ -1,0 +1,3 @@
+create database name as :- imagegallery
+
+and then import this sql file

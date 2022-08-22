@@ -1,0 +1,55 @@
+
+.full-landing-image {
+
+height: 100vh;
+background-image: url(img/7.jpg);
+background-size: cover;
+background-position: center center;
+width: 100%;
+}
+
+.banner-image{
+    padding-bottom: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.inner-banner-image{
+	padding-top: 12%;
+	width: 80%;
+	margin: auto; 
+}
+
+.banner-content{
+	padding-top: 6%;
+	padding-bottom: 6%;
+	margin-bottom: 12%;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 660px;
+}
+
+.gallery{
+    padding-top: 85px;
+}
+
+.title{
+    padding-bottom: 85px;
+}
+
+.display-img{
+    padding-bottom: 65px;
+}
+
+.change-color{
+    color: lightgreen;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+
+
